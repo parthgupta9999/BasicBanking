@@ -1,8 +1,8 @@
-Overview
+
 This project is a fully functional Banking Website developed using Java, JSP, HTML, CSS, and MySQL. The platform allows users to manage their accounts, transfer funds, and maintain a detailed transaction history with secure processing.
 
-Features
-User Management:
+Features :  
+
 Store user details including name, email, account balance, and transaction history using JDBC and MySQL.
 Inter-Bank Money Transfers:
 
